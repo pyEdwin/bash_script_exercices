@@ -5,3 +5,20 @@
 
 * Task 2:
         - Ensure everything is working as desired by running the script.
+
+<h6>Usefull commands </h6>
+
+* mkdir :
+> make directory
+
+* chmod +x 
+> make a file executable
+
+* cp 
+> copy files and directories
+
+* cp -v
+> verbose (**v**) , print all the process which happens on the file while copying
+
+* vim
+> create a file
