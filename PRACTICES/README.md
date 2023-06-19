@@ -11,7 +11,7 @@
 * mkdir :
 > make directory
 
-* chmod +x 
+* chmod +x file_name
 > make a file executable
 
 * cp 
