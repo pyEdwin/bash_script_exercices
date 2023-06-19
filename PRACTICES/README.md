@@ -22,3 +22,14 @@
 
 * vim
 > create a file
+
+
+**Exercice 2: Incorporating Substitutions in an Existing Backup Script**
+
+* Task 1:
+
+        - Modify the backup script to include command enabling timestamps in log files.
+
+* Task 2:
+
+        - Modify the log file usage to use a command line parameter.
